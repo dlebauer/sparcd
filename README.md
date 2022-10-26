@@ -66,7 +66,7 @@ java -jar '<directory>/Sanimal FX/target/SanimalFX-1.0-SNAPSHOT-jar-with-depende
 
 ![collections tab](https://rawgit.com/DavidM1A2/Sanimal/master/screenshots/collections.PNG)
 
-### Analyze/Query - This tab is used to query uploaded image data.
+### Analyze/Query - This tab is used to query uploaded image data.asdf
 
 ![query tab](https://rawgit.com/DavidM1A2/Sanimal/master/screenshots/query.PNG)
 
